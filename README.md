@@ -1,5 +1,22 @@
-# Tarea7
-informe
+# PRIMER PARCIAL TAREA 1
+
+
+# Informe Ejercicios Capitulo 1 y 2
+### Fundamento de circuitos Eléctricos 
+#### Ing. Darwin Omar Alulema Flores
+
+#### Integrantes: Padilla Kevin, Samueza David, Avilés Kevin
+
+
+## 1. OBJETIVOS
+***Objetivo General***
+***Objetivos Específicos***
+
+## 2. MARCO TEÓRICO
+***Capitulo 1***
+
+![image](https://user-images.githubusercontent.com/93794279/153586600-931f24d3-0ca8-45c7-b9f9-f2a1934f937f.png)
+
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 ### CAPÍTULO 13
