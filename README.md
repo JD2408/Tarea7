@@ -98,6 +98,18 @@ LT = 50.5 mH
 
 [![Imagen11.png](https://i.postimg.cc/FsrbDhW1/Imagen11.png)](https://postimg.cc/8sYrCgVV)
 
+27.Determine la constante de tiempo para el circuito de la figura 13-50.
+
+[![Imagen12.png](https://i.postimg.cc/bJPSrR4d/Imagen12.png)](https://postimg.cc/67Hp1CWN)
+
+[![Imagen13.png](https://i.postimg.cc/Qt67zTnt/Imagen13.png)](https://postimg.cc/0MwrMbvR)
+
+29.Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre.¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
+
+[![Imagen14.png](https://i.postimg.cc/J0ZXP4vY/Imagen14.png)](https://postimg.cc/H8WjLHpb)
+
+[![Imagen15.png](https://i.postimg.cc/44VhCy2B/Imagen15.png)](https://postimg.cc/CdMKkhgq)
+
 
 
 ### CAPÍTULO 14
