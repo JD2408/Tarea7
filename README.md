@@ -1,7 +1,7 @@
-# PRIMER PARCIAL TAREA 1
+# PRIMER PARCIAL TAREA 7
 
 
-# Informe Ejercicios Capitulo 1 y 2
+# Informe Ejercicios Capitulo 13 y 14
 ### Fundamento de circuitos Eléctricos 
 #### Ing. Darwin Omar Alulema Flores
 
@@ -236,12 +236,15 @@ d)
 
 *SECCIÓN 14–7 Características de un transformador no ideal *
 
-21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 Wen las resistencias
+21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias
 de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado
 en el primario no pasa a través del secundario.
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima
 de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+![image](https://user-images.githubusercontent.com/94129932/153598140-6c472df0-ee72-487c-ab75-f17a2a6d80af.png)
+
 
 *SECCIÓN 14–8 Transformadores con tomas y devanados múltiples *
 
