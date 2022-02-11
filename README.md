@@ -142,6 +142,13 @@ LT = 50.5 mH
 
 [![Imagen15.png](https://i.postimg.cc/44VhCy2B/Imagen15.png)](https://postimg.cc/CdMKkhgq)
 
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+
+[![Imagen16.png](https://i.postimg.cc/ZY9byQzg/Imagen16.png)](https://postimg.cc/4ngkDBdb)
+
+33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
+
+[![Imagen17.png](https://i.postimg.cc/d3GgjrB7/Imagen17.png)](https://postimg.cc/V0L7YS21)
 
 
 ### CAPÍTULO 14
