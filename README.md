@@ -64,6 +64,13 @@ obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/94129932/153535152-911ad7f0-57d0-4087-a737-6382e4aa8939.png)
 
+a)![image](https://user-images.githubusercontent.com/94129932/153536706-3c2f4a65-8727-4fdc-bad4-244e32b6fa62.png)
+
+b)![image](https://user-images.githubusercontent.com/94129932/153536724-658444c3-2c75-4cb8-9ebc-361aaab33148.png)
+
+c)![image](https://user-images.githubusercontent.com/94129932/153536747-89af8ef7-ad36-4535-97e0-00710aa09f5a.png)
+
+d)![image](https://user-images.githubusercontent.com/94129932/153536762-8e902cb6-0c97-46dc-a1ea-ad6b94191130.png)
 
 *SECCIÓN 14–5 Carga reflejada *
 
