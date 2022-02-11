@@ -214,10 +214,18 @@ de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 *SECCIÓN 14–8 Transformadores con tomas y devanados múltiples *
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/94129932/153540742-47d147ac-f842-4892-b400-8ab74f0b1708.png)
+
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
+![image](https://user-images.githubusercontent.com/94129932/153540762-9b8cc074-3385-46ec-bdc8-7aa3e4c14665.png)
+
 *31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/94129932/153540796-a6d363f1-2ef2-422b-9207-04a6cb2fe4f1.png)
 
 *SECCIÓN 14–9 Localización de fallas *
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+Se extrae corriente primaria en exceso, lo que causaría que potencialmente se queme la fuente y/o el transformador a menos que se proteja el primario con un fusible o resistencia.
