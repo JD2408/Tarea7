@@ -76,6 +76,30 @@ LT = 50.5 mH
 [![Imagen5.png](https://i.postimg.cc/bNj4mSk8/Imagen5.png)](https://postimg.cc/w30Wvvwb)
 
 
+*SECCIÓN 13–4 Inductores en circuitos de cd*
+
+19.Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
+
+[![Imagen6.png](https://i.postimg.cc/NMcPpW2D/Imagen6.png)](https://postimg.cc/QBfbMYbK)
+
+21.En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
+
+[![Imagen7.png](https://i.postimg.cc/VktRpK8V/Imagen7.png)](https://postimg.cc/5XxLFqjB)
+
+[![Imagen8.png](https://i.postimg.cc/PqsjnV8p/Imagen8.png)](https://postimg.cc/RWR8cRd4)
+
+23.Repita el problema 21 para los siguientes instantes:
+
+[![Imagen9.png](https://i.postimg.cc/ZKSsZkfh/Imagen9.png)](https://postimg.cc/NLdk7nqN)
+
+25.En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+[![Imagen10.png](https://i.postimg.cc/QM2kb5wr/Imagen10.png)](https://postimg.cc/VSFCsSz7)
+
+[![Imagen11.png](https://i.postimg.cc/FsrbDhW1/Imagen11.png)](https://postimg.cc/8sYrCgVV)
+
+
+
 ### CAPÍTULO 14
   *SECCIÓN 14–1 Inductancia mutua *
   
