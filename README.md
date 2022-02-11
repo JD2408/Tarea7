@@ -252,6 +252,8 @@ de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
 ![image](https://user-images.githubusercontent.com/94129932/153540742-47d147ac-f842-4892-b400-8ab74f0b1708.png)
 
+![image](https://user-images.githubusercontent.com/94129932/153600024-b1ad108d-fd3f-4b57-b40b-68ac22be5fb3.png)
+
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
 ![image](https://user-images.githubusercontent.com/94129932/153540762-9b8cc074-3385-46ec-bdc8-7aa3e4c14665.png)
