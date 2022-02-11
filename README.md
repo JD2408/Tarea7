@@ -111,19 +111,6 @@ LT = 50.5 mH
 [![Imagen15.png](https://i.postimg.cc/44VhCy2B/Imagen15.png)](https://postimg.cc/CdMKkhgq)
 
 
-*SECCIÓN 13–5 Inductores en circuitos de ca*
-
-31.Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400Hz.
-
-[![Imagen16.png](https://i.postimg.cc/ZY9byQzg/Imagen16.png)](https://postimg.cc/4ngkDBdb)
-
-33.¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
-
-[![Imagen17.png](https://i.postimg.cc/d3GgjrB7/Imagen17.png)](https://postimg.cc/V0L7YS21)
-
-
-
-
 
 ### CAPÍTULO 14
   *SECCIÓN 14–1 Inductancia mutua *
@@ -203,9 +190,17 @@ d)
 
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?
 
+![image](https://user-images.githubusercontent.com/94129932/153537819-297978a2-9f34-459c-a983-edef70a9f99c.png)
+
+![image](https://user-images.githubusercontent.com/94129932/153537774-2f0480af-6ecb-48ef-ab7a-587aa18f0f57.png)
+
 *SECCIÓN 14–6 Igualación de impedancia *
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
+
+![image](https://user-images.githubusercontent.com/94129932/153539732-4455744d-cf68-4d5e-9849-ac7a5f17b4f3.png)
+
+![image](https://user-images.githubusercontent.com/94129932/153539685-05fa273d-d695-483c-867b-310b0800b4ed.png)
 
 *SECCIÓN 14–7 Características de un transformador no ideal *
 
