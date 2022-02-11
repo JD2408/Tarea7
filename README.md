@@ -15,13 +15,19 @@ informe
 La operación de un transformador está basada en la inductancia mutua.
 5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
 voltaje primario. Indique también la amplitud.
+
 ![image](https://user-images.githubusercontent.com/94129932/153528940-4f855839-d183-4af2-8b45-1030790bfa35.png)
+
 a) Se puede apreciar en el tranformador que las bobinas tienen la misma dirección, por lo tanto los voltajes primario y secundario están en la fase. La relación de vueltas es 10 por lo tanto el voltaje secundario es 10 veces mayor que el voltaje de entrada 100v.
+
 ![image](https://user-images.githubusercontent.com/94129932/153530652-2e69a41e-813e-42ea-a050-435ee36883ca.png)
+
 b)Se puede apreciar en el tranformador que las bobinas estan enrolladas, por lo tanto los voltajes primario y secundario están desfasados 180 grados. La relación de vueltas es 2 por lo tanto el voltaje secundario es el doble que el voltaje de entrada 20v.
+
 ![image](https://user-images.githubusercontent.com/94129932/153531417-ef6bea5f-7bb2-4fd6-95ba-d86ba4739ecd.png)
 
 c)Se puede apreciar en el tranformador que las bobinas estan enrolladas en dirección opuesta, por lo tanto los voltajes primario y secundario están desfasados 180 grados. La relación de vueltas es un quinto por lo tanto el voltaje secundario es un quinto del voltaje de entrada 20v.
+
 ![image](https://user-images.githubusercontent.com/94129932/153531362-a6aaef96-4593-4607-8af7-b56aa72d86b9.png)
 
 *SECCIÓN 14–3 Transformadores elevadores y reductores *
