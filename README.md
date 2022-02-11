@@ -10,7 +10,15 @@
 
 ## 1. OBJETIVOS
 ***Objetivo General***
+- Analizar experimentalmente las características de una combinación de Inductores en serie en corriente alterna y corriente continua.
+- Investigar los tipos y clases de transformadores de potencial, transformadores decorriente, los tipos de enfriamiento y los tipos de conexiones que se puede realizar enlos transformadores mediante fuentes de información.
+
 ***Objetivos Específicos***
+- Confirmar la validez de la Ley de Ohm en los circuitos de corriente alterna.
+- Medir la impedancia de la asociación de dos Inductores en serie.
+- Analizar experimentalmente las características de una combinación de Inductores en serieen corriente alterna.
+- Conocer cuales son los transformadores que se utiliza en distribución, subtransmisióny transmisión de la energía eléctrica.
+- Investigar que tipos de refrigerantes son los que tenemos para trabajar con lostransformadores y cual es el más utilizado.
 
 ## 2. MARCO TEÓRICO
 ***Capitulo 13***
@@ -253,3 +261,18 @@ de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 Se extrae corriente primaria en exceso, lo que causaría que potencialmente se queme la fuente y/o el transformador a menos que se proteja el primario con un fusible o resistencia.
+
+
+## 5. CONCLUSIONES
+
+- Se   determino  que  la  caída  del   potencial  en  los   inductores   toma   el  mismo   valor   y  alcomparar estas con la total, se halla que la tensión ejercida a una asociación de inductoresconectados en serie es igual a la suma del a caída de potencia en cada uno de los inductoresmás la fuerza contra el ectromotriz autoinducida.
+- Se confirmó la valides de las leyes de ohm en un circuito de corriente alterna en serie.haciendo que esta se pueda aplicar a este tipo de circuitos.
+- Los transformadores de potencial son los utilizados en lo que es transmisión ya
+que estos convierten voltajes altos en bajos voltajes estos transformadores son
+los que trabajan para sistemas trifásicos.
+
+## 6. BIBLIOGRAFIA
+1. Qué es un inductor y cómo funciona. (2018, February 9). Plantas eléctricas. https://www.luzplantas.com/que-es-un-inductor-y-como-funciona/
+2. Banerjee, K. (2021, June 15). Inductores en serie y paralelo. Lambda Geeks. https://es.lambdageeks.com/inductors-in-series-and-parallel/
+3.Electromecánicos, A. (n.d.). UNIDAD 2: Transformadores. Edu.Ar. Retrieved February 11, 2022, from https://rephip.unr.edu.ar/bitstream/handle/2133/16745/21503-19%20ACCIONAMIENTOS%20ELECTROMEC%C3%81NICOS%20Transformadores.pdf?sequence=3&isAllowed=y
+4. Ryff, P. F., & etc. (1986). Electrical machines and transformers: Principles and applications. Prentice Hall.
