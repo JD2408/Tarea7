@@ -199,6 +199,11 @@ obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/94129932/153534495-f7a3545e-29dd-4e7a-8c5e-62c8917f159a.png)
 
+a)
+![image](https://user-images.githubusercontent.com/94129932/153602111-218bd7ba-db22-4c82-9e5c-c3d8f1ed606e.png)
+
+b)
+![image](https://user-images.githubusercontent.com/94129932/153602515-5259443e-d1f2-4daa-a6e9-61420b769a8f.png)
 
 *SECCIÓN 14–4 Carga del devanado secundario *
 
@@ -238,8 +243,14 @@ d)
 
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias
 de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+![image](https://user-images.githubusercontent.com/94129932/153603266-d24e970a-bf6a-438c-ad59-e2d5648cddc9.png)
+
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado
 en el primario no pasa a través del secundario.
+
+![image](https://user-images.githubusercontent.com/94129932/153604599-f4ac8fdc-6235-4306-9065-633ff763394d.png)
+
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima
 de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
@@ -258,13 +269,26 @@ de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
 ![image](https://user-images.githubusercontent.com/94129932/153540762-9b8cc074-3385-46ec-bdc8-7aa3e4c14665.png)
 
+a)
+![image](https://user-images.githubusercontent.com/94129932/153605049-1a582139-1760-4b94-9b62-f06d89c7be79.png)
+
+b)
+![image](https://user-images.githubusercontent.com/94129932/153605243-bf9ee837-cf70-4db7-a924-f5f2600975ce.png)
+
 *31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/94129932/153540796-a6d363f1-2ef2-422b-9207-04a6cb2fe4f1.png)
 
+a)
+![image](https://user-images.githubusercontent.com/94129932/153607128-2d5529ea-9a3c-4d4b-81c2-c0f49901ef79.png)
+
+b)
+![image](https://user-images.githubusercontent.com/94129932/153606859-87612279-dfc7-4465-9edc-8699f07bc53e.png)
+
 *SECCIÓN 14–9 Localización de fallas *
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
 Se extrae corriente primaria en exceso, lo que causaría que potencialmente se queme la fuente y/o el transformador a menos que se proteja el primario con un fusible o resistencia.
 
 
