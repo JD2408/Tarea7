@@ -12,7 +12,14 @@ informe
   *SECCIÓN 14–2 El transformador básico *
   
 3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
-La operación de un transformador está basada en la inductancia mutua.
+Respondiendo la primera pregunta:
+
+![image](https://user-images.githubusercontent.com/94129932/153532973-aa15cfaf-7439-4dc7-a33a-af484d994500.png)
+
+Respondiendo la segunda pregunta:
+
+![image](https://user-images.githubusercontent.com/94129932/153532937-e21fb70c-a6dd-4469-85ab-394d26074256.png)
+
 5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el
 voltaje primario. Indique también la amplitud.
 
@@ -34,14 +41,29 @@ c)Se puede apreciar en el tranformador que las bobinas estan enrolladas en direc
 
 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario
 si la relación de vueltas es de 5?
+
+![image](https://user-images.githubusercontent.com/94129932/153533341-5370e49b-348f-4f82-9ec8-2470360c1d8f.png)
+
 9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/94129932/153534096-c19f8ee4-ec36-4e00-aafc-899cb41e6007.png)
+
 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para
 obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/94129932/153534435-10c7948d-51dd-4154-8fd0-20dea3f10597.png)
+
 13. Determine las lecturas de medidor no especificadas en la figura 14-44.
+
+![image](https://user-images.githubusercontent.com/94129932/153534495-f7a3545e-29dd-4e7a-8c5e-62c8917f159a.png)
+
 
 *SECCIÓN 14–4 Carga del devanado secundario *
 
 15. Determine las siguientes cantidades en la figura 14-46.
+
+![image](https://user-images.githubusercontent.com/94129932/153535152-911ad7f0-57d0-4087-a737-6382e4aa8939.png)
+
 
 *SECCIÓN 14–5 Carga reflejada *
 
